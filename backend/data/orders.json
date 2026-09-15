@@ -1,0 +1,77 @@
+[
+  {
+    "orderId": "VRD-383630",
+    "date": "Sep 8, 2026",
+    "arrivalDate": "Wednesday, Oct 12",
+    "items": [
+      {
+        "plantId": "monstera-deliciosa",
+        "name": "Monstera Deliciosa",
+        "price": 65,
+        "quantity": 1,
+        "scientificName": "Swiss Cheese Plant",
+        "wateringSchedule": "Allow top 2-3 inches of soil to dry out between waterings.",
+        "lightDescription": "Thrives in bright indirect light; avoid direct midday scorching rays.",
+        "petFriendly": false
+      }
+    ],
+    "subtotal": 65,
+    "shippingFee": 15,
+    "tax": 5.2,
+    "grandTotal": 85.2,
+    "customer": {
+      "firstName": "Botanical",
+      "lastName": "Friend",
+      "email": "test@verdant.com",
+      "address": "123 Green St",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11201"
+    },
+    "payment": {
+      "method": "credit",
+      "status": "Confirmed"
+    },
+    "careRegimenGenerated": true
+  },
+  {
+    "orderId": "VRD-84920",
+    "date": "Sep 8, 2024",
+    "arrivalDate": "Wednesday, Oct 12",
+    "items": [
+      {
+        "plantId": "ficus-elastica-burgundy",
+        "name": "Ficus Elastica",
+        "scientificName": "Burgundy Rubber Tree",
+        "price": 73,
+        "potSize": "Medium (6\")",
+        "planter": "Sand Ceramic",
+        "quantity": 1,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFNanNZZFzVG5YGjkcbr3DvxwOmgL_btDCHNGZKIBa7O4LI1mCv4-rKP7fw6cjJL1cdrtylAPDCUWFbtcj-jAbAraLjemfdxt2YL6sImLtr5OiiJPQ6FFymuqfZOByAmpNbn0DqOCkttIsrf5U6vlphPZ3qtd4_oLqXftjO_3ZsQTgFII_VjT3T5pZ5-18Hb4GlbbEqh1fU60b1tmxU6S82vn2s3pVNPeLgCYWTs_yrm4OfK8DpOnK"
+      },
+      {
+        "plantId": "golden-pothos",
+        "name": "Golden Pothos",
+        "scientificName": "Epipremnum Aureum",
+        "price": 36,
+        "potSize": "Medium (6\")",
+        "planter": "None",
+        "quantity": 1,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBBWB1SINQrM9M7N9f-3zcm1PGV1FUqTsQHOLQJe5N5Nw-K07qN7C59e1UgfIGLL3byq0nAX2XYyyVpecYJjPdvT3Nqgu5_xb3299fOOCKnMkroHDE01YTkznxSPqO-B997M1IJq6aToUHc1i5oW8kFhmooLwk4J5V8IBOr6A6wZ09tb2YhHGZpEiLb6zELaEzrGqiJE98ESY9BxxjjCMedk_nIYxsI3OKzDsjPFXOfYt-syp0v6jSv"
+      }
+    ],
+    "subtotal": 109,
+    "shippingFee": 0,
+    "tax": 8.72,
+    "grandTotal": 117.72,
+    "customer": {
+      "email": "eleanor.vane@sanctuary.com",
+      "firstName": "Eleanor",
+      "lastName": "Vane",
+      "address": "422 Greenery Haven Blvd, Apt 4B",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11201"
+    }
+  }
+]

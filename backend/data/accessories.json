@@ -1,0 +1,26 @@
+[
+  {
+    "id": "terracotta-planter",
+    "name": "Classic Terracotta Planter",
+    "price": 28.00,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB4k70KQkCvmXdD1KjfZxUaMEm7x513RgIHqfUDJYcR6OlxEIN6vk64zTf4WZnlhlho7LWaLKWVkh0iHT1WbMxqmdhmllkvWg66TnGA8hAiO2dysPwjQXKTxB-ztSbV_1ev6AB0u1Q3lGfLjcKGsEC1-F925nulTvFoMqumHiowfsug5vXovSTxz7kD1y9lFOCyu_vTNZ4--cC2gQCMdNXlZXkqEkcmwGigoQAwf5pPdJrxyCAW3P07"
+  },
+  {
+    "id": "extendable-moss-pole",
+    "name": "Extendable Moss Pole",
+    "price": 18.00,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAV4UreBv1dng5DiPRKZEKxvdmHg-2gpSLVRettjKKGbJyjjdQPyu_Lw5100kmlRXRgXcHGTAeluvPscedLI6siPf0v29-8MauAiOYuwlGmyjgEU-zmKrlCw6nUBrQK-ozh18HW_AjZjV9Biqpn92J4BaKM0M6IKVEqiKcOFXrMO5Ur4DQ1zmWV2XvT0_KmzJv56MNcrjfuD_HLm2KX9Fcts2qf0TYAAAHr1GhFvwDHRcGH-KUvfdU8"
+  },
+  {
+    "id": "minimalist-watering-can",
+    "name": "Minimalist Watering Can",
+    "price": 45.00,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBnZp5ddsZPdaGAWsH55Bu9XJKtqaDgZ30tOElWIfDAOeCbx0u4DvXbcKX4ylNgSWL4vJyIiyx-bJRQSIXhurfqtWk3Z7n9oE4Ot_LapEErgjvrTMdZ7JinnyDUOr55fmYJtTOW8TyWvNrOB5ZTfLdsWHnuEnQUoCh1xC_NpBrHzdlq71qUtTWGyeG9kz2hFwWhNFQIuvxR3EglfCotzJ4Vbf30bnEPEB8X99jOW-e03WUHDrkOyIxg"
+  },
+  {
+    "id": "premium-aroid-mix",
+    "name": "Premium Aroid Mix",
+    "price": 14.00,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAmBZ2E4LKUJ035QgL9sZBMVQFJWpnSIY1bilciSLLNtTAh1SAnc72lI5IiD0hFhZjhpKK-iCrRXyQhcDrNVioQ5sFFWZPysJsoX5bhYWANgBvn9Y1-pt_EYx1ufdYNJML_MZC4rOnN2jGOW8um7j5Vsj5nXj9jMDVtMihhafN3sNJsKJsCBNLtRyO6Xae71h4m85fBS-za4IFibQEiU4Xmciwul4dpMfo8apTzQFLqdHMb5zGEVR7U"
+  }
+]
